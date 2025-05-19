@@ -10,6 +10,7 @@ sudo apt install python
 sudo apt-get install python-setuptools
 
 pip install mock
+pip install numpy
 
 -------------------------------------
 -------------------------------------
